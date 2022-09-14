@@ -1,10 +1,10 @@
 dir             = {}
 
 Config2                            = {
-webhookDiscordfacture = 'https://discord.com/api/webhooks/1017949732972265553/QtuftII63LovGyk3rLwEbkbsn3fgOulQpjwFYV1i2QnEFhvU6yTHMXjmaSVb_Dd26vIb', -- Facture au joueur
-webhookDiscordperso = 'https://discord.com/api/webhooks/1017949732972265553/QtuftII63LovGyk3rLwEbkbsn3fgOulQpjwFYV1i2QnEFhvU6yTHMXjmaSVb_Dd26vIb', -- Annonce personalisée
-webhookDiscordouvert = 'https://discord.com/api/webhooks/1017949732972265553/QtuftII63LovGyk3rLwEbkbsn3fgOulQpjwFYV1i2QnEFhvU6yTHMXjmaSVb_Dd26vIb', -- Annonce D'ouverture
-webhookDiscordfermer = 'https://discord.com/api/webhooks/1017949732972265553/QtuftII63LovGyk3rLwEbkbsn3fgOulQpjwFYV1i2QnEFhvU6yTHMXjmaSVb_Dd26vIb', -- Annonce de Fermeture
+webhookDiscordfacture = '', -- Facture au joueur
+webhookDiscordperso = '', -- Annonce personalisée
+webhookDiscordouvert = '', -- Annonce D'ouverture
+webhookDiscordfermer = '', -- Annonce de Fermeture
 }
 
 
