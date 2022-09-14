@@ -28,7 +28,6 @@ end)
 
 function ServiceDIR()
     local ServiceDIR = RageUI.CreateMenu("Accueil de la D.I.R", "Que puis-je faire pour vous ?", X, Y, "DirJOB", "DirJOB", nil, nil, nil, nil)
-	local RDV = RageUI.CreateSubMenu(ServiceDIR, "Rendez-vous", "CITYFRENCH")
     RageUI.Visible(ServiceDIR, not RageUI.Visible(ServiceDIR))
     while ServiceDIR do
         Citizen.Wait(0)
