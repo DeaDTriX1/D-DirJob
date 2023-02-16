@@ -24,5 +24,5 @@ INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_
 
 INSERT INTO `items` (`name`, `label`, `limit`) VALUES  
     ('kitrepa', 'Kit de réparation', 5),
-    ('kitnettoyage', 'Kit de Néttoyage', 5),
+    ('kitnettoyage', 'Kit de Néttoyage', 5)
 ;
